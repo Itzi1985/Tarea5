@@ -1,0 +1,22 @@
+{
+  "name": "clase_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6",
+    "jest-puppeteer": "^5.0.4",
+    "puppeteer": "^10.1.0"
+  }
+}
